@@ -12,3 +12,17 @@ C:\Users\muhammadshahzaib\source\repos\DataAccessLayer\obj\Debug\net7.0\refint\D
 C:\Users\muhammadshahzaib\source\repos\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
 C:\Users\muhammadshahzaib\source\repos\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
 C:\Users\muhammadshahzaib\source\repos\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Users\User\Source\Repos\backend-devops-project\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\User\Source\Repos\backend-devops-project\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+C:\Users\User\Source\Repos\backend-devops-project\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\User\Source\Repos\backend-devops-project\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\User\Source\Repos\backend-devops-project\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\backend-devops-project\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\backend-devops-project\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\backend-devops-project\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\User\Source\Repos\backend-devops-project\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\backend-devops-project\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\User\Source\Repos\backend-devops-project\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\User\Source\Repos\backend-devops-project\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\User\Source\Repos\backend-devops-project\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\User\Source\Repos\backend-devops-project\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
